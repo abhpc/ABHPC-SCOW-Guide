@@ -34,12 +34,12 @@
 <img src="image/login_web.png" width = "300" align=center />
 </div>
 
-用户登录进系统后，注意看<u>**右上角**</u>的面板切换图标，如果显示“管理系统”，则说明现在处于**用户界面**，点击“管理系统”可以进入**管理系统**界面：
+用户登录进系统后，注意看<u>**右上角**</u>的面板切换图标，如果显示```管理系统```，则说明现在处于**用户界面**，点击```管理系统```可以进入**管理系统**界面：
 <div  align="center">    
 <img src="image/dash_status1.png" width = "224" align=center />
 </div>
 
-如果显示“SCOW HPC”，则说明现在处于**管理系统**界面，点击“SCOW HPC”可切换到**用户界面**：
+如果显示```SCOW HPC```，则说明现在处于**管理系统**界面，点击```SCOW HPC```可切换到**用户界面**：
 <div  align="center">    
 <img src="image/dash_status2.png" width = "244" align=center />
 </div>
