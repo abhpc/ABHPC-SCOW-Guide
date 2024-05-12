@@ -36,25 +36,26 @@
 
 用户登录进系统后，注意看<u>**右上角**</u>的面板切换图标，如果显示“管理系统”，则说明现在处于**用户界面**，点击“管理系统”可以进入**管理系统**界面：
 <div  align="center">    
-<img src="image/dash_status1.png" width = "300" align=center />
+<img src="image/dash_status1.png" width = "224" align=center />
 </div>
 
 如果显示“SCOW HPC”，则说明现在处于**管理系统**界面，点击“SCOW HPC”可切换到**用户界面**：
 <div  align="center">    
-<img src="image/dash_status2.png" width = "320" align=center />
+<img src="image/dash_status2.png" width = "244" align=center />
 </div>
 
 **注意**：所有用户的超算界面相同，但不同权限的用户（普通用户、租户管理员、平台管理员、财务人员）的管理系统界面有所差异。
 
 #### 1.1.2 修改密码
 
-右上角
+点击右上角的用户账户，然后选择```个人信息```：
 <div  align="center">    
-<img src="image/chpasswd_step1.png" width = "320" align=center />
+<img src="image/chpasswd_step1.png" width = "310" align=center />
 </div>
 
+进入修改个人信息页面，选择```修改密码```即可：
 <div  align="center">    
-<img src="image/chpasswd_step2.png" width = "320" align=center />
+<img src="image/chpasswd_step2.png" width = "385" align=center />
 </div>
 
 
