@@ -21,7 +21,7 @@
 
 ### 1.2 用户仪表盘
 <div  align="center">    
-<img src="image/scow_dash.png" width = "800" align=center />
+<img src="image/scow_dash.png" width = "1000" align=center />
 </div>
 
 ## 2 管理员手册
