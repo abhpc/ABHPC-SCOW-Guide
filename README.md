@@ -48,6 +48,7 @@
 
 #### 1.1.2 修改密码
 
+右上角
 <div  align="center">    
 <img src="image/chpasswd_step1.png" width = "320" align=center />
 </div>
