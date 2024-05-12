@@ -1,5 +1,7 @@
 # SCOW User Manual Based on ABHPC System <!-- omit in toc -->
 
+[简体中文](README.md)|[English](README.en.md)
+
 This tutorial is applicable to the supercomputing platform with SCOW configured on the ABHPC operating system. The main content includes the [User Manual](#1-user-manual) and the [Administrator Manual](#2-administrator-manual).
 
 ## Table of Contents <!-- omit in toc -->

@@ -1,5 +1,7 @@
 # 基于ABHPC系统的SCOW用户手册 <!-- omit in toc -->
 
+[简体中文](README.md)|[English](README.en.md)
+
 本教程适用于在ABHPC操作系统上配置了SCOW的超算平台，主要内容为[用户手册](#1-用户手册)和[管理员手册](#2-管理员手册)。 
 
 ## 目录 <!-- omit in toc -->
