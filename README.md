@@ -19,6 +19,15 @@
 <img src="image/login_web.png" width = "300" align=center />
 </div>
 
+用户登录进系统后，注意看右上角的面板切换图标，如果显示“管理系统”，则说明现在处于超算用户界面，点击“管理系统”可以进入管理系统界面：
+<div  align="center">    
+<img src="image/dash_status1.png" width = "300" align=center />
+</div>
+如果显示“SCOW HPC”，则说明现在处于管理系统界面，点击“SCOW HPC”可切换到用户超算界面：
+<div  align="center">    
+<img src="image/dash_status2.png" width = "300" align=center />
+</div>
+
 ### 1.2 用户仪表盘
 <div  align="center">    
 <img src="image/scow_dash.png" width = "1000" align=center />
