@@ -69,12 +69,16 @@
 
 ### 2.2 SSH登录
 
-SSH推荐使用客户端登录，跨平台的推荐FinalShell(付费高级版仅35元)，包含了ssh和sftp功能。ABHPC全系采用RSA密钥登录，首先下载私钥到本地，在文件管理系统打开```显示隐藏的项目```，然后打开```.ssh```文件夹，下载文件```id_rsa```（<font color=red>**注意：该文件非常重要，请妥善保管**</font>）：
+SSH推荐使用客户端登录，跨平台的推荐[FinalShell](https://www.hostbuf.com)(付费高级版仅35元)，包含了ssh和sftp功能。ABHPC全系采用RSA密钥登录，首先下载私钥到本地，在文件管理系统打开```显示隐藏的项目```，然后打开```.ssh```文件夹，下载文件```id_rsa```（<font color=red>**注意：该文件非常重要，请妥善保管**</font>）：
 
 <div  align="center">    
 <img src="image/README/image.png" width = "1200" align=center />
 </div>
 
+在Finalshell中新建连接，导入下载的```id_rsa```文件即可：
+![alt text](image.png)
+
+**小建议：** 如果你有多个主机的私钥，保管的时候，最好命名为```<username>@<hostname>.id_rsa```以免混淆。
 
 ### 2.3 NX登录
 
