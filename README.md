@@ -76,7 +76,10 @@ SSH推荐使用客户端登录，跨平台的推荐[FinalShell](https://www.host
 </div>
 
 在Finalshell中新建连接，导入下载的```id_rsa```文件即可：
-![alt text](image.png)
+
+<div  align="center">    
+<img src="image/README/id_rsa.png" width = "1200" align=center />
+</div>
 
 **小建议：** 如果你有多个主机的私钥，保管的时候，最好命名为```<username>@<hostname>.id_rsa```以免混淆。
 
