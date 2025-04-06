@@ -2,7 +2,7 @@
 
 [简体中文](README.md)|[English](README.en.md)
 
-本教程适用于在ABHPC操作系统上配置了SCOW的超算平台用户，管理员另见[管理员手册](ADMIN.md)。
+本教程是基于SCOW前端的ABHPC系统的用户手册，管理员请查阅[管理员手册](ADMIN.md)。
 
 ## 目录 <!-- omit in toc -->
 
