@@ -74,7 +74,7 @@ Open the cluster SCOW address in a browser, enter your username and password to 
 For SSH, it is recommended to use a client. A cross-platform recommendation is [FinalShell](https://www.hostbuf.com) (premium version only $5), which includes SSH and SFTP functionality. ABHPC uses RSA key login. First, download the private key locally, open the file management system, enable ``Show Hidden Items``, then open the ``.ssh`` folder and download the ``id_rsa`` file (<font color=red>**Note: This file is very important, please keep it safe**</font>):
 
 <div align="center">
-<img src="image/README/image.png" width="1200" align=center />
+<img src="image/README.en/1743909579936.png" width="1200" align=center />
 </div>
 
 In FinalShell, create a new connection and import the downloaded ``id_rsa`` file:
