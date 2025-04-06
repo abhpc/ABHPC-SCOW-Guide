@@ -31,20 +31,20 @@ This tutorial is applicable to the supercomputing platform with SCOW configured 
 
 Users can switch between two interfaces: the Supercomputing Platform and the Management System. The Supercomputing Platform is used for all job operations, while the Management System is for managing user passwords, expenses, and permissions. All users have the same supercomputing interface, but the Management System interface varies based on user roles (regular users, tenant administrators, platform administrators, and financial staff).
 
-After logging into the system, check the **top right corner** for the interface switch icon. If it shows ``Admin``, you are currently on the **Supercomputing Platform**. Click ``Management System`` to switch to the **Management System** interface, and vice versa:
+After logging into the system, check the **top right corner** for the interface switch icon. If it shows ``Admin``, you are currently on the **Supercomputing Platform**. Click ``Admin`` to switch to the **Management System** interface, and vice versa:
 
 <div align="center">
-<img src="image/README/1743867063380.png" width="250" align=center />
+<img src="image/README.en/1743909025187.png" width="250" align=center />
 </div>
 
 Unless otherwise specified, the following user operations are performed on the **Supercomputing Platform** interface.
 
 ### 1.2 File System Initialization
 
-Click ``Desktop -> New Desktop``, select the ``MATE`` desktop, choose the login node, and click OK to complete user initialization.
+Click ``Desktop -> Create New Desktop``, select the ``MATE`` desktop, choose the login node, and click OK to complete user initialization.
 
 <div align="center">
-<img src="image/README/1743867848645.png" width="1200" align=center />
+<img src="image/README.en/1743909144906.png" width="1200" align=center />
 </div>
 
 **Note for Rocky Linux 8:** Since Rocky Linux 8.10 does not come with a default MATE desktop, users need to open a file browser, select ``Edit -> Preferences -> Extensions``, check ``Open terminal``, click ``Configure Extension``, and change ``mate-terminal`` to ``xfce4-terminal`` (as shown below). Otherwise, opening a terminal in a folder will not follow the current directory and will always open the ``$HOME`` directory.
@@ -55,10 +55,10 @@ Click ``Desktop -> New Desktop``, select the ``MATE`` desktop, choose the login 
 
 ### 1.3 Change Password
 
-In the **System Management** interface, click the username in the top right corner, then click on personal information (as shown below) to change the user's password and email:
+In the **System Management** interface, click the username in the top right corner, then click on `Personal Information` (as shown below) to change the user's password and email:
 
 <div align="center">
-<img src="image/README/1743868588249.png" width="300" align=center />
+<img src="image/README.en/1743909211539.png" width="300" align=center />
 </div>
 
 ## 2 Login Methods
