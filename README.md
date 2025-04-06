@@ -1,4 +1,4 @@
-# 基于ABHPC系统的SCOW用户手册 <!-- omit in toc -->
+# 基于SCOW前端的ABHPC系统用户手册 <!-- omit in toc -->
 
 [简体中文](README.md)|[English](README.en.md)
 
