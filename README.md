@@ -112,6 +112,12 @@ Nomachine客户端[下载地址](https://downloads.nomachine.com/download-enterp
 
 ### 3.2 sftp客户端文件传输(适合批量传输文件)
 
+使用Finalshell登录后，可以在下方的sftp进行文件和文件夹的上传和下载操作：
+
+<div  align="center">  
+<img src="image/README/1743901390533.png" width = "600" align=center />
+</div>
+
 ## 4 命令行作业
 
 ### 4.1 slmscript拷贝作业脚本
