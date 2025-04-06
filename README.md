@@ -24,7 +24,6 @@
   - [4.4 终止作业](#44-终止作业)
 - [5 图形化作业](#5-图形化作业)
 - [6 账单查询](#6-账单查询)
-  - [1.7 进阶功能](#17-进阶功能)
 
 ## 1 用户初始化
 
@@ -146,10 +145,14 @@ scancel <job id>
 
 ## 6 账单查询
 
-如下图所示，仪表盘有两个工作区：快捷入口和平台概览:
+在**管理系统**页面首页可查看自己账户的余额和未结束作业信息：
 
 <div  align="center">  
-<img src="image/scow_dash.png" width = "1000" align=center />
+<img src="image/README/1743908020965.png" width = "1200" align=center />
 </div>
 
-### 1.7 进阶功能
+进入```用户空间——>已结束的作业```可以查看自己的作业账单(只有作业结束了才完成计费)：
+
+<div  align="center">  
+<img src="image/README/1743907855289.png" width = "1200" align=center />
+</div>
