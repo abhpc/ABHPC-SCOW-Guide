@@ -2,7 +2,7 @@
 
 [简体中文](README.md)|[English](README.en.md)
 
-本教程是基于SCOW前端的ABHPC系统的用户手册，管理员请查阅[管理员手册](ADMIN.md)。
+本教程是基于SCOW前端的ABHPC系统的用户手册，管理员请查阅[管理员手册](ADMIN.md)。建议用户也熟悉一下[Linux常用命令](linux-command.md)。
 
 ## 目录 <!-- omit in toc -->
 
