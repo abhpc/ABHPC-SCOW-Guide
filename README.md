@@ -90,6 +90,14 @@ SSH推荐使用客户端登录，跨平台的推荐[FinalShell](https://www.host
 
 ABHPC提供基于Docker的NX远程桌面，可使用Nomachine客户端进行连接。每个用户的NX端口号不同，事前需要管理员提供用户唯一的NX端口号。
 
+Nomachine客户端[下载地址](https://downloads.nomachine.com/download-enterprise/#NoMachine-Enterprise-Client)。
+
+新建连接后，输入连接名、主机地址和端口号，登录即可：
+
+<div  align="center">  
+<img src="image/README/1743899795526.png" width = "600" align=center />
+</div>
+
 ## 3 数据上传与下载
 
 ### 3.1 Web文件管理(适合在线查看文件)
