@@ -18,7 +18,7 @@
   - [3.1 Web文件管理(适合在线查看文件)](#31-web文件管理适合在线查看文件)
   - [3.2 sftp客户端文件传输(适合批量传输文件)](#32-sftp客户端文件传输适合批量传输文件)
 - [4 命令行作业](#4-命令行作业)
-  - [4.1 slmscript拷贝作业脚本](#41-slmscript拷贝作业脚本)
+  - [4.1 slmscript拷贝脚本模板](#41-slmscript拷贝脚本模板)
   - [4.2 提交作业](#42-提交作业)
   - [4.3 查看作业](#43-查看作业)
   - [4.4 终止作业](#44-终止作业)
@@ -120,13 +120,23 @@ Nomachine客户端[下载地址](https://downloads.nomachine.com/download-enterp
 
 ## 4 命令行作业
 
-### 4.1 slmscript拷贝作业脚本
-
+### 4.1 slmscript拷贝脚本模板
+```slmscript```的使用详细见[slmscript命令](https://github.com/abhpc/slmscript)：
+```bash
+slmscript cp <job.slm>
+```
 ### 4.2 提交作业
-
+```bash
+sbatch <job.slm>
+```
 ### 4.3 查看作业
-
+```bash
+squeue
+```
 ### 4.4 终止作业
+```bash
+scancel <job id>
+```
 
 ## 5 图形化作业
 
