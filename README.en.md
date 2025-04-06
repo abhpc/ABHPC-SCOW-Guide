@@ -58,7 +58,7 @@ Click ``Desktop -> Create New Desktop``, select the ``MATE`` desktop, choose the
 In the **System Management** interface, click the username in the top right corner, then click on `Personal Information` (as shown below) to change the user's password and email:
 
 <div align="center">
-<img src="image/README.en/1743909211539.png" width="300" align=center />
+<img src="image/README.en/1743909301874.png" width="300" align=center />
 </div>
 
 ## 2 Login Methods
@@ -71,7 +71,7 @@ Open the cluster SCOW address in a browser, enter your username and password to 
 
 ### 2.2 SSH Login
 
-For SSH, it is recommended to use a client. A cross-platform recommendation is [FinalShell](https://www.hostbuf.com) (premium version only 35 RMB), which includes SSH and SFTP functionality. ABHPC uses RSA key login. First, download the private key locally, open the file management system, enable ``Show Hidden Items``, then open the ``.ssh`` folder and download the ``id_rsa`` file (<font color=red>**Note: This file is very important, please keep it safe**</font>):
+For SSH, it is recommended to use a client. A cross-platform recommendation is [FinalShell](https://www.hostbuf.com) (premium version only $5), which includes SSH and SFTP functionality. ABHPC uses RSA key login. First, download the private key locally, open the file management system, enable ``Show Hidden Items``, then open the ``.ssh`` folder and download the ``id_rsa`` file (<font color=red>**Note: This file is very important, please keep it safe**</font>):
 
 <div align="center">
 <img src="image/README/image.png" width="1200" align=center />
